@@ -7,7 +7,7 @@ body {
 
 /* Cabeçalho */
 header {
-    background: linear-gradient(to right, #556b2f, #6b8e23);
+    background: #8B0000;
     padding: 30px 20px;
     text-align: center;
     color: #fff;
@@ -160,5 +160,6 @@ footer {
     }
 
 }
+
 
 
