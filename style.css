@@ -14,7 +14,7 @@ header {
 }
 
 .logo {
-    width: 150px;       /* Tamanho ideal para desktop */
+    width: 200px;       /* Tamanho ideal para desktop */
     max-width: 100%;    /* Garante que não ultrapasse o container */
     height: auto;       /* Mantém proporção da imagem */
     margin-bottom: 10px;
@@ -158,4 +158,5 @@ footer {
         opacity: 1;
         transform: translateY(0);
     }
+
 }
